@@ -17,6 +17,6 @@
   </tr>
   <tr>
     <td><img src="https://github.com/imziaurrehman/multi-user-chat-simple-app-firebase/blob/main/signin.png" width=270 height=520></td>
-    <td><img src="https://github.com/shahzadafridi/FirebaseWithMVVM/blob/master/screenshots/note-taking-register.png" width=270 height=520></td>
+    <td><img src="https://github.com/imziaurrehman/multi-user-chat-simple-app-firebase/blob/main/signup.png" width=270 height=520></td>
   </tr>
  </table>
