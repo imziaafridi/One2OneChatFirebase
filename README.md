@@ -2,15 +2,11 @@
 
 A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# multi-user-chat-simple-app-firebase is a simple app.
+# In this app i used firebase as a backend like cloud firebaseAuth and firestore db for managing data for app.
+# peer to peer communication with defferent users.
+# key feautures :
+* userAuth with simple email and password like i created signup and signin screens.
+* using Tab bars in App bar in this tab bar i created to tabs (1) users (2) chat , for managing users and chats.
+* also i added requesting to defferent users in db to chat with them after accepting requests.
+* peer to peer communications between friends.
