@@ -8,3 +8,15 @@
 * using Tab bars in App bar in this tab bar i created to tabs (1) users (2) chat , for managing users and chats.
 * also i added requesting to defferent users in db to chat with them after accepting requests.
 * peer to peer communications between friends.
+
+<table>
+  <tr>
+    <td>Login</td>
+    <td>Register</td>
+
+  </tr>
+  <tr>
+    <td><img src="https://github.com/imziaurrehman/multi-user-chat-simple-app-firebase/blob/main/signin.png" width=270 height=520></td>
+    <td><img src="https://github.com/shahzadafridi/FirebaseWithMVVM/blob/master/screenshots/note-taking-register.png" width=270 height=520></td>
+  </tr>
+ </table>
