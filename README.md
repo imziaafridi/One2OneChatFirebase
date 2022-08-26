@@ -20,3 +20,15 @@
     <td><img src="https://github.com/imziaurrehman/multi-user-chat-simple-app-firebase/blob/main/signup.png" width=270 height=520></td>
   </tr>
  </table>
+ 
+ <table>
+  <tr>
+    <td>users</td>
+    <td>chats</td>
+
+  </tr>
+  <tr>
+    <td><img src="https://github.com/imziaurrehman/multi-user-chat-simple-app-firebase/blob/main/users.png" width=270 height=520></td>
+    <td><img src="https://github.com/imziaurrehman/multi-user-chat-simple-app-firebase/blob/main/chat.png" width=270 height=520></td>
+  </tr>
+ </table>
