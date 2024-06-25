@@ -1,4 +1,4 @@
-# One to One Chat App with Firebase
+# One 2 One Chat With Firebase
 
 Hi, I am student and currently learning flutter so I am practcing flutter on different task and decided to share the task with community which will give me opportunity to express my skills and open for modification or constructive feedback. I am enjoying flutter and eager to learn more to be professional in this field and try to share as much as I can. 
 
